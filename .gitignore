@@ -22,3 +22,5 @@ yarn-error.log*
 
 
 /src/assets/img/*
+
+/package-lock.jsn
