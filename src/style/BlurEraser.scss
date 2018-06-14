@@ -1,0 +1,15 @@
+.blurEraser-container{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100%;
+    background-color: #eee; 
+}
+.canvas-container{
+    background-color: white; 
+    height: 65%;
+    width: 75%;
+    margin: 5px;
+    text-align: center;
+}

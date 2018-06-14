@@ -1,0 +1,14 @@
+.image-container{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100%;
+    background-color: #eee; 
+}
+.canvas-container{
+    height: 65%;
+    width: 75%;
+    margin: 5px;
+    text-align: center;
+}
